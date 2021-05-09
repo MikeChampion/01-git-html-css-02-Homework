@@ -1,11 +1,11 @@
 TODO
 
-Make repo page live
 submit link for HW
-
-Finish commenting CSS file to 'main'
 
 Create README content including
 Description
-Screenshot of page
+
+![portfolio demo](./assets/images/mikechampion.github.io_01-git-html-css-02-Homework_.jpg)
+
 Link to deployed page
+https://mikechampion.github.io/01-git-html-css-02-Homework/
